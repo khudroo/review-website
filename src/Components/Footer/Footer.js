@@ -52,7 +52,7 @@ const Footer = () => {
                 </Card>
                 </CardGroup>
                 <div>
-                    <p className="text-center p-5">Copyright &copy; Bavaian Internation School.  Developed by <a href="https://github.com/khudroo"> Md. Jahirul Islam</a></p>
+                    <p className="text-center p-5">2021 Copyright &copy; Bavaian Internation School.  Developed by <a href="https://github.com/khudroo"> Md. Jahirul Islam</a></p>
                 </div>
         </div>
     );

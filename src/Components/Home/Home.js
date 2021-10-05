@@ -2,6 +2,7 @@ import Button from 'react-bootstrap/Button';
 import React, { useEffect, useState } from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import './Home.css'
+import { NavLink } from 'react-router-dom';
 
 const Home = () => {
 
@@ -40,7 +41,7 @@ const Home = () => {
                                 <span className="courseFee">Course Fee: {course.courseFee} </span>
                             </Card.Text>
                             <Card.Text>
-                                <Button variant="primary">Admission Now</Button>
+                            <NavLink className='aStyle' to="/Services" activeStyle={{ color: "Gray"}}><Button variant="primary">Admission Now</Button></NavLink>
                             </Card.Text>
                             </Card.Body>
                         </Card>
