@@ -9,7 +9,7 @@
 </br>
 <p>Visit our website</p>
 </br>
-Live Web: [https://review-website-khudroo.netlify.app/) to view it in the browser.
+Live Web: https://review-website-khudroo.netlify.app/ to view it in the browser.
 
 
 
