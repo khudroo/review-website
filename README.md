@@ -6,7 +6,7 @@
   4. All data are dynamic api. 
 
 Visit our website
-Live Web: [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Live Web: [https://review-website-khudroo.netlify.app/) to view it in the browser.
 
 
 
