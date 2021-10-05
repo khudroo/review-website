@@ -1,0 +1,56 @@
+
+
+   
+
+.sectionPadding{
+    background-image:linear-gradient(rgba(61, 61, 61, 0.15),rgba(96, 77, 126, 0.95)), url(https://eduma.thimpress.com/educationwp-2/wp-content/themes/eduma/images/bg-page.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+.sectionDiv{
+    margin-top: 50px;
+}
+
+
+
+.sectionDivTitle{
+    padding:70px 0px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.headline{
+    padding-top:120px;
+    font-size: 70px;
+    color: white;
+}
+.subHeadline{
+    font-size: 40px;
+    color: white;
+}
+.paraHeadline{
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+}
+.cardTitle{
+    font-size: 35px;
+    font-weight: 700;
+}
+.class{
+    font-size: 28px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.description{
+    margin-top: 20px;
+    
+}
+.courseFee{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(200 169 255);
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 700;
+}

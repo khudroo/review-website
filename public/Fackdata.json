@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Early Infant Schools",
+      "description": "In England, the first country in the world to undergo the industrial revolution, large numbers of working-class children below the age set for school attendance and as young as one year old were being sent to school. This was either a school organized for older children or an infant school.",
+      "class": "Play",
+      "url": "https://www.wimbledondaynursery.co.uk/blog/wp-content/uploads/2018/12/Perfect-Nursery-School-for-Your-Child-980x600.jpg",
+      "courseFee":"$12000"
+    },
+    {
+      "id": 2,
+      "title": "Nursery School",
+      "description": "n England, Margaret McMillan (1860–1931), a Christian Socialist, went further and substituted sense training and a focus on the health of the young child for the Froebelian emphasis on play and self-activity. Margaret McMillan is regarded as the originator of the nursery school concept.",
+      "class": "Nursery",
+      "url": "https://showmeinstitute.org/wp-content/uploads/2019/12/shutterstock_309241295.jpg",
+      "courseFee":"$23000"
+    },
+    {
+      "id": 3,
+      "title": "Primary School",
+      "description": "In the United States in the 1960s, War on Poverty programs such as Project Head Start and the Ypsilanti, Michigan, Perry Preschool Project stimulated the growth of nursery schools as a means to combat social inequalities. In recent decades, public and private provision of preschools has increased dramatically in many countries.",
+      "class": "Primary Level",
+      "url": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/06/course-7.jpg",
+      "courseFee":"$33000"
+    },
+    {
+      "id": 4,
+      "title": "Secondary School",
+      "description": "A broad pattern may be observed in the history of nursery schools. When they were privately funded they were able to adopt play methods more widely than when they were publicly funded, but there were too few of them to meet the demand. ",
+      "class": "High School",
+      "url": "https://static01.nyt.com/images/2021/07/12/nyregion/12-THE-MORNING-NL-lede/merlin_187216488_e4583e93-36b2-4109-8458-6ea155710ed0-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "courseFee":"$59000"
+    }
+    
+]

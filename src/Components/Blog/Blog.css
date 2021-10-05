@@ -1,0 +1,16 @@
+.cardImage{
+    width: 100px;
+    border: 2px solid rgb(191, 71, 196);
+    border-radius: 5px;
+   
+}
+.CardWidth{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cardIitle{
+    margin: 10px 0px;
+    font-size: 30px;
+    
+}

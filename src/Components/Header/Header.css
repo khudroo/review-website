@@ -1,0 +1,18 @@
+
+.NaverStyle{
+   
+   
+   
+}
+
+.NaverStyle .aStyle{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.NaverStyle .aStyle:hover{
+    color: rgb(197, 197, 197);
+}
