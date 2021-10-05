@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { Container, Card, img } from 'react-bootstrap';
 import './Blog.css'
 
-
+// Blog Section
 
 const Blog = () => {
 
@@ -23,6 +23,8 @@ const Blog = () => {
                 <h1 className="p-5">Education News</h1>
             </div>
            <div>
+
+            {/* Here news all dynamic inclue  */}
             {
                 newses.map(news => 
                 <Card>

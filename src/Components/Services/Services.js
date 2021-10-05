@@ -16,6 +16,7 @@ const Services = () => {
     }
     ,[]);
     return (
+        // Services Section
         <Container>
             <div>
                 <h1 className="p-5 font-bold">Our Services</h1>
@@ -25,6 +26,7 @@ const Services = () => {
             {
                 services.map(service=>(
                             <Col>
+                            {/* Here is all card dynamic section */}
                             <Card>
                                 <Card.Img variant="top" src={service.ServiceUrl} />
                                 <Card.Body>

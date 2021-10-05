@@ -4,9 +4,10 @@ import './Footer.css'
 
 const Footer = () => {
     return (
+        // All dynacmic footer section
         <div>
             <CardGroup className="CardDesign">
-
+            {/* Footer Card dynamic section */}
                 <Card className='CardStyle'>
                      <Card.Body>
                      <Card.Img className='logoImg' variant="top" width='50px'  src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Eucalyp-Deus_High_School.png" />
